@@ -1,3 +1,7 @@
+# Cache files
+src/datasets/tensor/.cache
+src/datasets/wordnet/.cache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
